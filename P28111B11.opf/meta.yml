@@ -1,0 +1,17 @@
+id: P28111B11
+initial_creation_type: input
+source_metadata:
+  title: Katok Rigdzin Chenpo
+  language: fr
+  description: 'Texts by Katok Rigdzin Chenpo Pema Wangchen Dorje (kaḥ thog rig ''dzin
+    chen po padma dbang chen rdo rje):'
+  volume:
+    5c358b2439044a90a3ba532a96e4b1ec:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche, the Incarnation of
+        Do Khyentsé Yeshé Dorjé
+      parent: Long Life Prayers
+    95d84dfc6d0c41c58ece507a5a33c9a0:
+      title: Prayer for the Long Life of Pewar Rinpoche
+      parent: Long Life Prayers
+created_at: '2022-03-01T00:14:41.834740'
+last_modified_at: '2022-03-01T00:14:41.834742'
